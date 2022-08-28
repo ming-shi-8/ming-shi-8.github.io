@@ -26,4 +26,4 @@
 3. **Ming Shi**, Xiaojun Lin and Sonia Fahmy, “[Competitive Online Convex Optimization with Switching Costs and Ramp Constraints](https://engineering.purdue.edu/~linx/paper/infocom18-oco.pdf),” April 2021.
 
 # Teaching
-## Teaching Assistant: ECE547: Introduction to Computer Communication Networks, School of Electrical and Computer Engineering, Purdue University, 2016 Fall.
+## Teaching Assistant: ECE547: Introduction to Computer Communication Networks, School of Electrical and Computer Engineering, Purdue University, Fall 2016.
