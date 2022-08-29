@@ -1,4 +1,5 @@
 # Home
+![Ming Shi]{Ming Shi.jpg}
 ## About me
 
 ### I am a Post-Doctoral Scholar of the AI-EDGE Institute and Department of Electrical and Computer Engineering at The Ohio State University, Columbus, OH, USA. I received my Ph.D. degree from Purdue University, West Lafayette, IN, USA, in 2022.
