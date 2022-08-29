@@ -2,14 +2,14 @@
 ![Ming Shi](assets/Ming Shi.JPG)
 ## About me
 
-### I am a Post-Doctoral Scholar of the AI-EDGE Institute and Department of Electrical and Computer Engineering at The Ohio State University, Columbus, OH, USA. I received my Ph.D. degree from Purdue University, West Lafayette, IN, USA, in 2022.
+> I am a Post-Doctoral Scholar of the AI-EDGE Institute and Department of Electrical and Computer Engineering at The Ohio State University, Columbus, OH, USA. I received my Ph.D. degree from Purdue University, West Lafayette, IN, USA, in 2022.
 
-### Email address: shi.1796 [at] osu [dot] edu.
+> Email address: shi.1796 [at] osu [dot] edu.
 
 ### Research Interests:
-#### Online learning, reinforcement learning and bandit learning, with applications in Edge AI and 6G+ networks.
-#### Online convex optimization, with applications in networking, cloud computing and smart grid.
-#### Regret analysis and competitive analysis for online algorithms.
+1. Online learning, reinforcement learning and bandit learning, with applications in Edge AI and 6G+ networks.
+2. Online convex optimization, with applications in networking, cloud computing and smart grid.
+3. Regret analysis and competitive analysis for online algorithms.
 
 # Research
 ## Publications
@@ -36,4 +36,4 @@
 
 
 # Teaching
-## Teaching Assistant: [ECE547: Introduction to Computer Communication Networks](https://engineering.purdue.edu/~ee547/), School of Electrical and Computer Engineering, Purdue University, Fall 2016.
+> Teaching Assistant: [ECE547: Introduction to Computer Communication Networks](https://engineering.purdue.edu/~ee547/), School of Electrical and Computer Engineering, Purdue University, Fall 2016.
