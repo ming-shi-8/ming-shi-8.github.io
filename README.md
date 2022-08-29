@@ -1,4 +1,5 @@
 # Home
+**Ming Shi**
 ![Ming Shi](assets/Ming Shi.JPG)
 ## About me
 
