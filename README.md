@@ -35,5 +35,3 @@
 
 # Teaching
 ## Teaching Assistant: [ECE547: Introduction to Computer Communication Networks](https://engineering.purdue.edu/~ee547/), School of Electrical and Computer Engineering, Purdue University, Fall 2016.
-
-theme: merlot
