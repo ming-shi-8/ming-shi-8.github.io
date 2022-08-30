@@ -23,9 +23,9 @@
 3. **Ming Shi**, Xiaojun Lin, Sonia Fahmy, and DongHoon Shin, “[Competitive Online Convex Optimization with Switching Costs and Ramp Constraints](https://www.cs.purdue.edu/homes/fahmy/papers/infocom2018.pdf),” in IEEE Conference on Computer Communications (INFOCOM), Honolulu, Hawaii, USA, April 2018. **(Acceptance rate: 19.2%.)**
 
 ## Technical Reports
-1. **Ming Shi**, Xiaojun Lin, and Lei Jiao, "[Power-of-2-Arms for Bandit Learning with Switching Costs](https://engineering.purdue.edu/~linx/)," October 2022.
+1. **Ming Shi**, Xiaojun Lin, and Lei Jiao, "[Power-of-2-Arms for Bandit Learning with Switching Costs](https://engineering.purdue.edu/~linx/paper/mobihoc22-power-of-2-tech-updated)," October 2022.
 2. **Ming Shi**, Xiaojun Lin and Lei Jiao, “[Combining Regularization with Look-Ahead for Competitive Online Convex Optimization](https://engineering.purdue.edu/~linx/paper/infocom21-rla-tech.pdf),” May 2021.
-3. **Ming Shi**, Xiaojun Lin and Sonia Fahmy, “[Competitive Online Convex Optimization with Switching Costs and Ramp Constraints](https://engineering.purdue.edu/~linx/paper/infocom18-oco.pdf),” April 2021.
+3. **Ming Shi**, Xiaojun Lin and Sonia Fahmy, “[Competitive Online Convex Optimization with Switching Costs and Ramp Constraints](https://engineering.purdue.edu/~linx/paper/infocom18-oco-tech.pdf),” April 2021.
 
 # Invited Talks and Presentations
 1. “Power-of-2-Arms for Bandit Learning with Switching Costs,” at Rigorous Systems Research Group (RSRG) meeting, The California Institute of Technology (Caltech), May 2022.
