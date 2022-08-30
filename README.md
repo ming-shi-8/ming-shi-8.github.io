@@ -20,7 +20,7 @@
 ## Conference Papers
 1. **Ming Shi**, Xiaojun Lin, and Lei Jiao, "[Power-of-2-Arms for Bandit Learning with Switching Costs](https://ix.cs.uoregon.edu/~jiao/publications/mobihoc22.pdf)," in 23rd International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc), Seoul, South Korea, October 2022. **(Acceptance rate: 19.8%.)**
 2. **Ming Shi**, Xiaojun Lin and Lei Jiao, “[Combining Regularization with Look-Ahead for Competitive Online Convex Optimization](https://engineering.purdue.edu/~linx/paper/infocom21-rla.pdf),” in IEEE Conference on Computer Communications (INFOCOM), virtual conference, May 2021. **(Acceptance rate: 19.9%.)**
-3. **Ming Shi**, Xiaojun Lin, Sonia Fahmy, and DongHoon Shin, “[Competitive Online Convex Optimization with Switching Costs and Ramp Constraints](https://www.cs.purdue.edu/homes/fahmy/papers/infocom2018.pdf),” in IEEE Conference on Computer Communications (INFOCOM), Honolulu, Hawaii, USA, April 2018. **(Acceptance rate: 19.2%.)**
+3. **Ming Shi**, Xiaojun Lin, Sonia Fahmy, and DongHoon Shin, “[Competitive Online Convex Optimization with Switching Costs and Ramp Constraints](https://engineering.purdue.edu/~linx/paper/infocom18-oco.pdf),” in IEEE Conference on Computer Communications (INFOCOM), Honolulu, Hawaii, USA, April 2018. **(Acceptance rate: 19.2%.)**
 
 ## Technical Reports
 1. **Ming Shi**, Xiaojun Lin, and Lei Jiao, "[Power-of-2-Arms for Bandit Learning with Switching Costs](https://engineering.purdue.edu/~linx/paper/mobihoc22-power-of-2-tech-updated.pdf)," October 2022.
