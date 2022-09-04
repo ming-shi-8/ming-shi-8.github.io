@@ -2,7 +2,9 @@
 ![Ming Shi](assets/Ming Shi.JPG)
 # About me
 
-> I am a Post-Doctoral Scholar, advised by Prof. [Ness Shroff](http://newslab.ece.ohio-state.edu/home/) and Prof. [Yingbin Liang](https://sites.google.com/view/yingbinliang/home), of the [AI-EDGE Institute](https://aiedge.osu.edu) and [Department of Electrical and Computer Engineering](https://ece.osu.edu) at The [Ohio State University](https://www.osu.edu), Columbus, OH, USA. I received my Ph.D. degree, advised by Prof. [Xiaojun Lin](https://engineering.purdue.edu/~linx/), from [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE), [College of Engineering](https://engineering.purdue.edu/Engr) at [Purdue University](https://www.purdue.edu), West Lafayette, IN, USA, in 2022.
+> I am a Post-Doctoral Scholar, advised by Prof. [Ness Shroff](http://newslab.ece.ohio-state.edu/home/) and Prof. [Yingbin Liang](https://sites.google.com/view/yingbinliang/home), of the [AI-EDGE Institute](https://aiedge.osu.edu) and [Department of Electrical and Computer Engineering](https://ece.osu.edu) at The [Ohio State University](https://www.osu.edu), Columbus, OH, USA. 
+
+> I received my Ph.D. degree, advised by Prof. [Xiaojun Lin](https://engineering.purdue.edu/~linx/), from [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE), [College of Engineering](https://engineering.purdue.edu/Engr) at [Purdue University](https://www.purdue.edu), West Lafayette, IN, USA, in 2022.
 
 > Email address: shi.1796 [at] osu [dot] edu.
 
