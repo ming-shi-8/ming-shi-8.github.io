@@ -6,7 +6,7 @@
 
 > I received my Ph.D. degree, advised by Prof. [Xiaojun Lin](https://engineering.purdue.edu/~linx/), from [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE), [College of Engineering](https://engineering.purdue.edu/Engr) at [Purdue University](https://www.purdue.edu), West Lafayette, IN, USA, in 2022.
 
-> Email address: shi.1796 [at] osu [dot] edu.
+- Email address: shi.1796 [at] osu [dot] edu.
 
 # Research Interests:
 1. Online learning, reinforcement learning and bandit learning, with applications in Edge AI and 6G+ networks.
