@@ -13,6 +13,9 @@
 2. Online convex optimization, with applications in networking, cloud computing and smart grid.
 3. Regret analysis and competitive analysis for online algorithms.
 
+# Dissertation:
+> **Ming Shi**, "[On the Value of Prediction and Feedback for Online Decision Making With Switching Costs](https://hammer.purdue.edu/articles/thesis/On_the_Value_of_Prediction_and_Feedback_for_Online_Decision_Making_With_Switching_Costs/19949975)," Purdue University Doctoral Dissertation, June 2022.
+
 # Publications
 
 ## Journal Papers
