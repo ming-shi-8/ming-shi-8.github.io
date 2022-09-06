@@ -2,9 +2,9 @@
 ![Ming Shi](assets/Ming Shi.JPG)
 # About me
 
-> I am a Post-Doctoral Scholar, advised by Prof. [Ness Shroff](http://newslab.ece.ohio-state.edu/home/) and Prof. [Yingbin Liang](https://sites.google.com/view/yingbinliang/home), of the [AI-EDGE Institute](https://aiedge.osu.edu) and [Department of Electrical and Computer Engineering](https://ece.osu.edu) at The [Ohio State University](https://www.osu.edu), Columbus, OH, USA. 
+- I am a Post-Doctoral Scholar, advised by Prof. [Ness Shroff](http://newslab.ece.ohio-state.edu/home/) and Prof. [Yingbin Liang](https://sites.google.com/view/yingbinliang/home), of the [AI-EDGE Institute](https://aiedge.osu.edu) and [Department of Electrical and Computer Engineering](https://ece.osu.edu) at The [Ohio State University](https://www.osu.edu), Columbus, OH, USA. 
 
-> I received my Ph.D. degree, advised by Prof. [Xiaojun Lin](https://engineering.purdue.edu/~linx/), from [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE), [College of Engineering](https://engineering.purdue.edu/Engr) at [Purdue University](https://www.purdue.edu), West Lafayette, IN, USA, in 2022.
+- I received my Ph.D. degree, advised by Prof. [Xiaojun Lin](https://engineering.purdue.edu/~linx/), from [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE), [College of Engineering](https://engineering.purdue.edu/Engr) at [Purdue University](https://www.purdue.edu), West Lafayette, IN, USA, in 2022.
 
 - Email address: shi.1796 [at] osu [dot] edu.
 
@@ -14,7 +14,7 @@
 3. Regret analysis and competitive analysis for online algorithms.
 
 # Dissertation:
-> **Ming Shi**, "[On the Value of Prediction and Feedback for Online Decision Making With Switching Costs](https://hammer.purdue.edu/articles/thesis/On_the_Value_of_Prediction_and_Feedback_for_Online_Decision_Making_With_Switching_Costs/19949975)," Purdue University Doctoral Dissertation, June 2022.
+- **Ming Shi**, "[On the Value of Prediction and Feedback for Online Decision Making With Switching Costs](https://hammer.purdue.edu/articles/thesis/On_the_Value_of_Prediction_and_Feedback_for_Online_Decision_Making_With_Switching_Costs/19949975)," Purdue University Doctoral Dissertation, June 2022.
 
 # Publications
 
@@ -40,4 +40,4 @@
 
 
 # Teaching
-> Teaching Assistant: [ECE547: Introduction to Computer Communication Networks](https://engineering.purdue.edu/~ee547/), School of Electrical and Computer Engineering, Purdue University, Fall 2016.
+- Teaching Assistant: [ECE547: Introduction to Computer Communication Networks](https://engineering.purdue.edu/~ee547/), School of Electrical and Computer Engineering, Purdue University, Fall 2016.
