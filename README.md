@@ -2,7 +2,7 @@
 ![Ming Shi](assets/Ming Shi.JPG)
 # About me
 
-- I am a Post-Doctoral Scholar, advised by Prof. [Ness Shroff](http://newslab.ece.ohio-state.edu/home/) and Prof. [Yingbin Liang](https://sites.google.com/view/yingbinliang/home), of the [AI-EDGE Institute](https://aiedge.osu.edu) and [Department of Electrical and Computer Engineering](https://ece.osu.edu) at The [Ohio State University](https://www.osu.edu), Columbus, OH, USA. 
+- I am a Post-Doctoral Scholar, advised by Prof. [Ness Shroff](http://newslab.ece.ohio-state.edu/home/) and Prof. [Yingbin Liang](https://sites.google.com/view/yingbinliang/home), of the [AI-EDGE Institute](https://aiedge.osu.edu) and [Department of Electrical and Computer Engineering](https://ece.osu.edu) at [The Ohio State University](https://www.osu.edu), Columbus, OH, USA. 
 
 - I received my Ph.D. degree, advised by Prof. [Xiaojun Lin](https://engineering.purdue.edu/~linx/), from [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE), [College of Engineering](https://engineering.purdue.edu/Engr) at [Purdue University](https://www.purdue.edu), West Lafayette, IN, USA, in 2022.
 
@@ -38,6 +38,9 @@
 3. “On the Value of Look-Ahead in Competitive Online Convex Optimization,” at ACM SIGMETRICS / IFIP Performance Joint International Conference, Phoenix, Arizona, USA, June 2019.
 4. “Competitive Online Convex Optimization with Switching Costs and Ramp Constraints,” at IEEE Conference on Computer Communications (INFOCOM), Honolulu, Hawaii, USA, April 2018.
 
+# Professional Society Activities
+- Reviewer for IEEE/ACM Transactions on Networking (ToN), 2019 - 2022.
+- Reviewer for IEEE Transactions on Network Science and Engineering (TNSE), 2021.
 
 # Teaching
 - Teaching Assistant: [ECE547: Introduction to Computer Communication Networks](https://engineering.purdue.edu/~ee547/), School of Electrical and Computer Engineering, Purdue University, Fall 2016.
