@@ -20,7 +20,7 @@
 
 ## Journal Papers
 1. **Ming Shi**, Xiaojun Lin and Sonia Fahmy, “[Competitive Online Convex Optimization With Switching Costs and Ramp Constraints](https://par.nsf.gov/servlets/purl/10300527),” in IEEE/ACM Transactions on Networking, vol. 29, no. 2, pp. 876-889, April 2021, DOI: 10.1109/TNET.2021.3053910.
-2. **Ming Shi**, Xiaojun Lin and Lei Jiao, “Combining Regularization With Look-Ahead for Competitive Online Convex Optimization,” manuscript in preparation.
+2. **Ming Shi**, Xiaojun Lin and Lei Jiao, “Combining Regularization With Look-Ahead for Competitive Online Convex Optimization,” under review, IEEE/ACM Transactions on Networking.
 
 ## Conference Papers
 1. **Ming Shi**, Xiaojun Lin, and Lei Jiao, "[Power-of-2-Arms for Bandit Learning with Switching Costs](https://dl.acm.org/doi/pdf/10.1145/3492866.3549720)," in 23rd International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc), Seoul, South Korea, October 2022. **(Acceptance rate: 19.8%.)**
